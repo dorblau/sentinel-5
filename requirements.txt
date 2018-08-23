@@ -1,5 +1,0 @@
-geojson==2.3.0
-overpy==0.4
-QuadKey
-shapely
-fiona
